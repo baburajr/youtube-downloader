@@ -20,4 +20,4 @@ $ git clone https://github.com/baburajr/youtube-downloader.git
 $ cd youtube downloader
 $ pip install -r requirements.txt
 $ python3 youtube.py
-```git
+```
